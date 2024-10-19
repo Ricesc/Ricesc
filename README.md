@@ -7,7 +7,7 @@
 
 ## 🌐 Connect with Me:
 <a href="https://linkedin.com/in/ricesc" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ricardo.escobar.dev@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:ricardo.escobar.dev@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
 
 
 
